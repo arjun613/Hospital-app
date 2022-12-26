@@ -1,0 +1,89 @@
+[{
+    "name": "Avitis Hospital",
+    "patient_count": 250,
+    "location": "Town Hall, Palakkad"
+}, {
+    "name": "Ahalia Diabetes Hospital",
+    "patient_count": 350,
+    "location": "Ahalia campus Kozhippara, Palakkad"
+}, {
+    "name": "Ahalia Foundation Eye Hospital",
+    "patient_count": 200,
+    "location": "Pattambi, Palakkad"
+}, {
+    "name": "Karuna Medical College Hospital",
+    "patient_count": 200,
+    "location": "Chittur, Palakkad"
+}, {
+    "name": "Trinity Eye Care",
+    "patient_count": 250,
+    "location": "Manali, Pakkad"
+}, {
+    "name": "Welcare Hospital",
+    "patient_count": 100,
+    "location": "Welcare Jn, Near Mercy Collece"
+}, {
+    "name": "Lakshmi Hospital",
+    "patient_count": 200,
+    "location": "Chittur Road, Palakkad"
+}, {
+    "name": "Rajiv Gandhi Cooperative Hospital",
+    "patient_count": 300,
+    "location": "Kallekad, Palakkad"
+}, {
+    "name": "Valluvanad Hospital",
+    "patient_count": 100,
+    "location": "Kanniyampuram, Ottapalam"
+}, {
+    "name": "Cresent Hospital",
+    "patient_count": 150,
+    "location": "Court Road, Palakkad"
+}, {
+    "name": "Karunnya Hospital",
+    "patient_count": 100,
+    "location": "Ottapalam, Palakkad"
+}, {
+    "name": "Athani Hospital",
+    "patient_count": 200,
+    "location": "Athicode, Palakkad"
+}, {
+    "name": "PK Das Institute Of Medical Sciences General Hospital",
+    "patient_count": 100,
+    "location": "Ottaplam, Palakkad"
+}, {
+    "name": "Palaana Institute Of Medical Sciences",
+    "patient_count": 300,
+    "location": "Kannadi, Palakkad"
+}, {
+    "name": "Nila Hospital",
+    "patient_count": 125,
+    "location": "Pallipuram Road, Ottapalam"
+}, {
+    "name": "Thangam Hospital",
+    "patient_count": 300,
+    "location": "Yakkara, Palakkad"
+}, {
+    "name": "Seventh day Adventist Hospital (Covid only)",
+    "patient_count": 250,
+    "location": "Kanniyapuram,Palakkad"
+}, {
+    "name": "CVR Multi Speciality Hospital",
+    "patient_count": 100,
+    "location": "manarkkad"
+}, {
+    "name": "Sevana Hospital & Research centre",
+    "patient_count": 400,
+    "location": "Kalladipatta,Pattambi"
+}, {
+    "name": "KMC Hospital",
+    "patient_count": 100,
+    "location": "Karakurusi"
+}, {
+    "name": "Avitis Super Speciality Hospital (Covid only)",
+    "patient_count": 110,
+    "location": "Nenmara, Palakkad"
+}, {
+    "name": "Palakkad Institute of Medical Sciences",
+    "patient_count": 50,
+    "location": "Chandrapuram, Palakkad"
+}]
